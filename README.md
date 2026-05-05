@@ -1,4 +1,4 @@
-# IBAN Test Generator
+# Random IBAN Generator
 
 A single-file, zero-dependency web tool for generating structurally valid IBANs with correct MOD-97 check digits and real bank identifiers. Built for developers testing payment gateway integrations, financial APIs, and banking software.
 
