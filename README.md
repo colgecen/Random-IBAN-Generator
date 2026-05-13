@@ -2,7 +2,7 @@
 
 A single-file, zero-dependency web tool for generating structurally valid IBANs with correct MOD-97 check digits and real bank identifiers. Built for developers testing payment gateway integrations, financial APIs, and banking software.
 
-**[Try it live →](https://colgecen.github.io/random-iban-generator/)**
+**[Try it live →](https://colgecen.github.io/Random-IBAN-Generator/)**
 
 > **These are not real bank accounts.** All generated IBANs are synthetic test data.
 
